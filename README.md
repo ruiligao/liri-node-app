@@ -10,8 +10,10 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
       Name of venue
       Venue location
       Data of the Event("MM/DD/YYYY)
+ 
+ 
+ 
 ![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
-
 #### 2. Spotify
 node liri.js spotify-this-song <insert song title>
 
@@ -23,13 +25,15 @@ This will show the following information about the song in your terminal/bash wi
     The album that the song is from
     If no song is provided then your program will default to "The Sign" by Ace of Base
 
+
+![Screenshot (46)](https://user-images.githubusercontent.com/47795010/55130888-c3866180-50d9-11e9-9c12-51cd6a866927.png)
+
 #### 3. Movies
 node liri.js movie-this <insert movie title>
 
 This will output the following information to your terminal/bash window:
 
 
-![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
 
     Title of the movie.
     Year the movie came out.
