@@ -5,24 +5,24 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 ## Available functions:
 
-bands in town
+            bands in town
 
-spotify
+            spotify
 
-omdb
+            omdb
 
-random
+            random
 
-### What it does
+## What it does
 #### 1. Band in Town
 ##### node liri.js concert-this <insert artist>
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal
 
-      Name of the venue
+            Name of the venue
 
-      Venue location
+            Venue location
 
-      Date of the Event ("MM/DD/YYYY")
+            Date of the Event ("MM/DD/YYYY")
 
 ![Screenshot (S-1)](https://user-images.githubusercontent.com/47795010/55131745-22010f00-50dd-11e9-9b46-b098580c583a.png) 
 
@@ -32,9 +32,9 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 
 This will show the following information about the song in your terminal/bash window
 
-       The song's name
-       A preview link of the song from Spotify
-       The album that the song is from
+             The song's name
+             A preview link of the song from Spotify
+             The album that the song is from
    
     
 ![Screenshot (S-1)](https://user-images.githubusercontent.com/47795010/55131745-22010f00-50dd-11e9-9b46-b098580c583a.png)
@@ -49,16 +49,16 @@ This will show the following information about the song in your terminal/bash wi
 
 This will output the following information to your terminal/bash window:
       
-      Title of the movie.
-      Year the movie came out.
-      IMDB Rating of the movie.
-      Country where the movie was produced.
-      Language of the movie.
-      Plot of the movie.
-      Actors in the movie.
-      Rotten Tomatoes Rating.
-      Rotten Tomatoes URL.
-   
+            Title of the movie.
+            Year the movie came out.
+            IMDB Rating of the movie.
+            Country where the movie was produced.
+            Language of the movie.
+            Plot of the movie.
+            Actors in the movie.
+            Rotten Tomatoes Rating.
+            Rotten Tomatoes URL.
+
 ![Screenshot (3-1)](https://user-images.githubusercontent.com/47795010/55131754-29c0b380-50dd-11e9-94fc-a4237ede3b58.png)
 
 ##### If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' and the outputs like the follow:
