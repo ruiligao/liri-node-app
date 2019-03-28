@@ -62,7 +62,7 @@ This will output the following information to your terminal/bash window:
 
 ![Screenshot (3-1)](https://user-images.githubusercontent.com/47795010/55131754-29c0b380-50dd-11e9-94fc-a4237ede3b58.png)
 
-##### If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' and the outputs like the follow:
+##### <font color="green"> If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' and the outputs like the follow:</font>
 ![Screenshot (movie-2)](https://user-images.githubusercontent.com/47795010/55131770-32b18500-50dd-11e9-8772-ac04de559049.png)
 
 #### 4. Do What It Says
