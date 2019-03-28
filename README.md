@@ -28,6 +28,9 @@ node liri.js movie-this <insert movie title>
 
 This will output the following information to your terminal/bash window:
 
+
+![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
+
     Title of the movie.
     Year the movie came out.
     IMDB Rating of the movie.
@@ -39,9 +42,7 @@ This will output the following information to your terminal/bash window:
     Rotten Tomatoes URL.
     If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
     
-    
-    
-    ![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
+  
 
 #### 4. Do What It Says
 node liri.js do-what-it-says
