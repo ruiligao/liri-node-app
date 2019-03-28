@@ -7,6 +7,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 #### 1. Band in Town
 node liri.js concert-this <insert artist>
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal
+      
       Name of venue
       Venue location
       Data of the Event("MM/DD/YYYY)
@@ -47,6 +48,8 @@ This will output the following information to your terminal/bash window:
     If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
     
   
+
+![Screenshot (45)](https://user-images.githubusercontent.com/47795010/55130868-b79a9f80-50d9-11e9-8d1a-ba45d2b0dafd.png)
 
 #### 4. Do What It Says
 node liri.js do-what-it-says
