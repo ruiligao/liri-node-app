@@ -82,7 +82,7 @@ function runMovie() {
     else {
         name = input;
     }
-    console.log(name)
+    // console.log(name)
 
     axios.get("http://www.omdbapi.com/?apikey=trilogy&t=" + name)
         .then(
