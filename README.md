@@ -6,6 +6,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 What it does
 Band in Town
 node liri.js concert-this <insert artist>
+![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
 
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal
 
