@@ -50,3 +50,6 @@ node liri.js do-what-it-says
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 Right now it will run concert-this for "Skrillex".
+
+
+![Screenshot (48)](https://user-images.githubusercontent.com/47795010/55130895-c84b1580-50d9-11e9-9cce-316331fb5336.png)
