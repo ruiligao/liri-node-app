@@ -32,6 +32,7 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 
 This will show the following information about the song in your terminal/bash window
 
+             Artist(s)
              The song's name
              A preview link of the song from Spotify
              The album that the song is from
@@ -52,12 +53,12 @@ This will output the following information to your terminal/bash window:
             Title of the movie.
             Year the movie came out.
             IMDB Rating of the movie.
+            Rotten Tomatoes Rating.
             Country where the movie was produced.
             Language of the movie.
             Plot of the movie.
             Actors in the movie.
-            Rotten Tomatoes Rating.
-            Rotten Tomatoes URL.
+  
 
 ![Screenshot (3-1)](https://user-images.githubusercontent.com/47795010/55131754-29c0b380-50dd-11e9-94fc-a4237ede3b58.png)
 
