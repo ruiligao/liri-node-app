@@ -1,0 +1,5 @@
+[ 
+    {"userchoose":"spotify-this-song", "input": "I Want it That Way"},
+    {"userchoose":"movie-this","input":"frozen"},
+    {"userchoose":"concert-this","input":"Skrillex"} 
+]
