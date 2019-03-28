@@ -12,9 +12,8 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
       Venue location
       Data of the Event("MM/DD/YYYY)
  
- 
- 
-![Screenshot (47)](https://user-images.githubusercontent.com/47795010/55130527-6e961b80-50d8-11e9-9d9d-cb1ef3b5e5f3.png)
+![Screenshot (S-1)](https://user-images.githubusercontent.com/47795010/55131745-22010f00-50dd-11e9-9b46-b098580c583a.png) 
+
 #### 2. Spotify
 node liri.js spotify-this-song <insert song title>
 
@@ -24,10 +23,13 @@ This will show the following information about the song in your terminal/bash wi
     The song's name
     A preview link of the song from Spotify
     The album that the song is from
-    If no song is provided then your program will default to "The Sign" by Ace of Base
+   
+    
+![Screenshot (S-1)](https://user-images.githubusercontent.com/47795010/55131745-22010f00-50dd-11e9-9b46-b098580c583a.png)
 
+####  If no song is provided then your program will default to "The Sign" by Ace of Base and the terminal widow display as follow:
 
-![Screenshot (46)](https://user-images.githubusercontent.com/47795010/55130888-c3866180-50d9-11e9-9c12-51cd6a866927.png)
+![Screenshot (S-2)](https://user-images.githubusercontent.com/47795010/55131750-25949600-50dd-11e9-9327-70aff6834b70.png)
 
 #### 3. Movies
 node liri.js movie-this <insert movie title>
@@ -45,11 +47,12 @@ This will output the following information to your terminal/bash window:
     Actors in the movie.
     Rotten Tomatoes Rating.
     Rotten Tomatoes URL.
-    If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
     
-  
+    
+![Screenshot (3-1)](https://user-images.githubusercontent.com/47795010/55131754-29c0b380-50dd-11e9-94fc-a4237ede3b58.png)
 
-![Screenshot (45)](https://user-images.githubusercontent.com/47795010/55130868-b79a9f80-50d9-11e9-8d1a-ba45d2b0dafd.png)
+#### If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' and the outputs like the follow:
+![Screenshot (movie-2)](https://user-images.githubusercontent.com/47795010/55131770-32b18500-50dd-11e9-8772-ac04de559049.png)
 
 #### 4. Do What It Says
 node liri.js do-what-it-says
@@ -58,5 +61,6 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 
 Right now it will run concert-this for "Skrillex".
 
+![Screenshot (do)](https://user-images.githubusercontent.com/47795010/55131778-3b09c000-50dd-11e9-844f-e77b6bca8f54.png)
 
-![Screenshot (48)](https://user-images.githubusercontent.com/47795010/55130895-c84b1580-50d9-11e9-9cce-316331fb5336.png)
+
