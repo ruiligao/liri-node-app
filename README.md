@@ -22,6 +22,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
             SPOTIFY_ID=your-spotify-id
             SPOTIFY_SECRET=your-spotify-secret
 
+#### 4. Then run from What it does
 
 ## What it does
 #### 1. Band in Town
