@@ -13,6 +13,16 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
             random
 
+## Download and installation instructions
+#### 1. Clone the repo
+#### 2. Run the npm init -y to install package JSON file
+#### 3. Next, create a file named .env, add the following to it, replacing the values with your API keys (no quotes) once you have them:
+
+# Spotify API keys
+
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
+
 ## What it does
 #### 1. Band in Town
 ##### node liri.js concert-this <insert artist>
