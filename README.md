@@ -15,7 +15,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 ## Download and installation instructions
 #### 1. Clone the repo
-#### 2. Run the npm init -y to install package JSON file
+#### 2. Run the npm init -y to install package json file
 #### 3. Next, create a file named .env, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
 ##### Spotify API keys
