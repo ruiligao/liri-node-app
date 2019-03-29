@@ -19,8 +19,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 #### 3. Next, create a file named .env, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
 ##### Spotify API keys
-SPOTIFY_ID=your-spotify-id
-SPOTIFY_SECRET=your-spotify-secret
+            SPOTIFY_ID=your-spotify-id
+            SPOTIFY_SECRET=your-spotify-secret
 
 
 ## What it does
