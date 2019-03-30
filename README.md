@@ -14,13 +14,24 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
             random
 
 ## Download and installation instructions
-#### 1. Clone the repo
-#### 2. Run the npm init -y to install package json file
+#### 1. Clone or download git repository.
+#### 2. In your terminal run the command npm init -y to install package json file. 
 #### 3. Next, create a file named .env, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
 ##### Spotify API keys
             SPOTIFY_ID=your-spotify-id
             SPOTIFY_SECRET=your-spotify-secret
+            
+#### Please follow the steps to get the Spotify API keys
+
+            Step One: Visit https://developer.spotify.com/my-applications/#!/
+
+            Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
+
+            Step Three: Once logged in, navigate to https://developer.spotify.com/my-applications/#!/applications/create to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
+
+            Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
+
 
 #### 4. Then run from What it does
 
